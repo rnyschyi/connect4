@@ -1,0 +1,22 @@
+:root {
+    --pageBgColor: #f8f5f2;
+    --boardBgColor: #078080;
+    --coinBgColor: #f8f5f2;
+    --redCoinColor: #fa5246;
+    --yellowCoinColor: #faae2b;
+    --textColor: #232323;
+    --buttonBgColor: #f45d48;
+    --buttonTextColor: #232323;
+    --borderColor: #232323;
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
+        "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
+        "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: var(--pageBgColor);
+}
+
